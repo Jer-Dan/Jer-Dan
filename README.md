@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Jeremy, a year 13 student in the UK who has a passion for programming! I'm looking to enter into a university to study Computer Science in 2025.<br><br>- 🛠️ I'm currently working on a collaborative study app written in Dioxus (A Level NEA)<br>- 📚 I'm currently learning compiler design<br>- ⚡ In my free time I code and do some 3D animation with Blender (still a beginner)</p>
+<p align="left">I'm Jeremy, a year 13 student in the UK who has a passion for programming! I'm looking to enter into a university to study Computer Science in 2025.<br><br>- 🛠️ I'm currently working on a collaborative study app written in Dioxus (A Level NEA)<br>- 📚 I'm currently going through "Crafting Interpreters" by Robert Nystrom<br>- ⚡ In my free time I code and do some 3D animation with Blender (still a beginner)</p>
 
 ###
 
