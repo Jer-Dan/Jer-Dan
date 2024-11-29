@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512.png" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://dioxuslabs.com/static/multiplatform-dark.svg" height="40" alt="dioxus logo"  />
+  <img src="https://dioxuslabs.com/assets/smalllogo-85c6e908faadac31.png" height="40" alt="dioxus logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="javascript logo"  />
   <img width="12" />
